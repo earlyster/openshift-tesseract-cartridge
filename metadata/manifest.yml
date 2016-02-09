@@ -7,6 +7,6 @@ Source-Url: git@github.com:syntaxsugar/openshift-tesseract-cartridge.git
 Cartridge-Version: 0.1.0
 Cartridge-Vendor: foobar
 Categories:
-  - embedded
+  - plugin
 Provides:
   - "tesseract"
